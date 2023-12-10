@@ -1,0 +1,24 @@
+body {
+    min-height: 100vh; 
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;        
+}
+
+.desc{
+    font-family:'Courier New';
+    text-align: center;
+}
+
+.hr{
+    border: 1px solid black;
+    margin-top: 10px;
+    width: 50%;
+}
+
+.initial{
+    margin: 10px;
+    padding: 15px;
+}
